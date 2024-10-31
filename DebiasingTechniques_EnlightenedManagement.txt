@@ -1,0 +1,45 @@
+44 debiasing techniques that can be used to address potential biases in decision-making:
+Blind procedures (e.g., double-blind lineups, anonymized reviews)
+Expert testimony on cognitive biases
+Deliberative decision-making processes
+Statistical decision systems
+Qualitative Criteria Assessment
+Psychological guardrails
+Incentive restructuring
+Nudges towards less biased choices
+Domain-specific training
+Creating inclusive work environments
+Exposure to positive exemplars
+Normalizing debiasing agents
+Fostering egalitarian motivations
+Perspective-taking exercises
+Anchoring awareness strategies
+Pre-mortem analysis (imagining potential failures)
+Devil's advocate approach
+Considering the opposite
+Structured analytic techniques
+Checklists and decision aids
+Diverse team composition
+Bias awareness training
+Mindfulness practices
+Time pressure reduction
+Accountability measures
+Feedback loops and post-decision reviews
+Red teaming (challenging assumptions)
+Scenario planning
+Delphi technique (anonymous forecast aggregation)
+Calibration training
+Cognitive forcing strategies
+Implementation of decision support systems
+Bias-resistant information presentation
+Counterfactual thinking exercises
+Analogical reasoning training
+Metacognitive strategies (thinking about thinking)
+Bias inoculation techniques
+Collaborative decision-making
+Decision journaling
+Probabilistic thinking training
+Bias labeling and recognition exercises
+Cognitive load reduction strategies
+Emotional regulation techniques
+Regular bias audits and assessments
